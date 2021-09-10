@@ -1,0 +1,8 @@
+bin/
+include/
+lib/
+.mypy_cache/
+__pycache__/
+share/
+Pipfile
+Pipfile.lock
