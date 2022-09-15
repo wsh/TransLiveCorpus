@@ -2,8 +2,6 @@
 
 This repository contains the code for the livecorpus crawling pipeline and the TransLiveCorpus.
 
-Last updated: September 14, 2022
-
 ## Who created the TransLiveCorpus database and livecorpus app?
 
 Will Hayworth (they/them), Google</br>
