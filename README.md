@@ -31,12 +31,11 @@ Included in the corpus are public posts made to these four communities between 2
 | TOTAL         |    30,540     |     273,947    |  23,620,934    |
 
 The corpus database presents entries in chronological order, with comments interleaved with their source posts. The output structure of the TLC includes the following for each entry: 
-* date, 
-* textual content, 
-* whether the entry is a post or a comment, 
-* a post ID, which links comments to the posts on which they were made,
-* a thread ID, which links comments in the same comment thread to one another,
-* additional unstructured meta-data.
+* entry id (the code associated with a post and all of its comments),
+* comment id (the code associated with the comment; if no comment id is present, the entry is a comment),
+* username (of the post or comment author),
+* published (the date of the post or comment),
+* content (of the post or comment).
 
 ## How was TransLiveCorpus created?
 
